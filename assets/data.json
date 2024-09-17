@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "David",
+        "martial_art": "Kung Fu",
+        "level": "3rd Dan"
+    },
+    {
+        "id": 2,
+        "name": "Reuven",
+        "martial_art": "Krav Maga",
+        "level": "Expert"
+    },
+    {
+        "id": 3,
+        "name": "Johny",
+        "martial_art": "Capoeira",
+        "level": "Instructor"
+    },
+    {
+        "id": 4,
+        "name": "Zeevi",
+        "martial_art": "Judo",
+        "level": "2nd Dan"
+    },
+    {
+        "id": 5,
+        "name": "Yair",
+        "martial_art": "Aikido",
+        "level": "4th Dan"
+    },
+    {
+        "id": 6,
+        "name": "Benjamin",
+        "martial_art": "Taekwondo",
+        "level": "1st Dan"
+    },
+    {
+        "id": 7,
+        "name": "Mendy",
+        "martial_art": "Brazilian Jiu-Jitsu",
+        "level": "Purple Belt"
+    },
+    {
+        "id": 8,
+        "name": "Haim",
+        "martial_art": "Muay Thai",
+        "level": "Advanced"
+    },
+    {
+        "id": 9,
+        "name": "Shai",
+        "martial_art": "Karate",
+        "level": "5th Dan"
+    },
+    {
+        "id": 10,
+        "name": "Shlomo",
+        "martial_art": "Wing Chun",
+        "level": "Sifu"
+    },
+    {
+        "id": 11,
+        "name": "Shmul",
+        "martial_art": "Kendo",
+        "level": "4th Dan"
+    },
+    {
+        "id": 12,
+        "name": "Eliezer",
+        "martial_art": "Iaido",
+        "level": "3rd Dan"
+    },
+    {
+        "id": 13,
+        "name": "Elkana",
+        "martial_art": "Ninjutsu",
+        "level": "Shidoshi"
+    },
+    {
+        "id": 14,
+        "name": "Aharon",
+        "martial_art": "Sambo",
+        "level": "Master of Sport"
+    },
+    {
+        "id": 15,
+        "name": "Nati",
+        "martial_art": "Systema",
+        "level": "Instructor"
+    },
+    {
+        "id": 16,
+        "name": "Mordechai",
+        "martial_art": "Pencak Silat",
+        "level": "Guru"
+    },
+    {
+        "id": 17,
+        "name": "Menachem",
+        "martial_art": "Kali",
+        "level": "Guro"
+    },
+    {
+        "id": 18,
+        "name": "Ariel",
+        "martial_art": "Jeet Kune Do",
+        "level": "Senior Instructor"
+    },
+    {
+        "id": 19,
+        "name": "Menny",
+        "martial_art": "Hapkido",
+        "level": "4th Dan"
+    },
+    {
+        "id": 20,
+        "name": "Pinchas",
+        "martial_art": "Baguazhang",
+        "level": "Master"
+    },
+    {
+        "id": 21,
+        "name": "Simcha",
+        "martial_art": "Shuai Jiao",
+        "level": "Advanced"
+    },
+    {
+        "id": 22,
+        "name": "Israel",
+        "martial_art": "Vovinam",
+        "level": "3rd Dang"
+    },
+    {
+        "id": 23,
+        "name": "Menachem",
+        "martial_art": "Bartitsu",
+        "level": "Professor"
+    },
+    {
+        "id": 24,
+        "name": "Mordechai",
+        "martial_art": "Savate",
+        "level": "Silver Glove"
+    },
+    {
+        "id": 25,
+        "name": "Mordechaim",
+        "martial_art": "Kalaripayattu",
+        "level": "Gurukkal"
+    }
+]
